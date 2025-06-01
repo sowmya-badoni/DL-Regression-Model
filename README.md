@@ -112,13 +112,15 @@ Training Loss Vs Iteration Plot
 ![image](https://github.com/user-attachments/assets/14927951-7bf5-464d-853b-214f5f9c1cfe)
 
 Best Fit line plot
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/a05202cd-43f4-4770-ba4a-56e4b3eaeaaf)
+
 
 
 ### New Sample Data Prediction
 Include your sample input and output here
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/926f7b52-5efd-4bab-b7e7-dd19b1bbbc68)
+
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
