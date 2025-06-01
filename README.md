@@ -109,7 +109,7 @@ plt.show()
 ### OUTPUT
 Training Loss Vs Iteration Plot
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/14927951-7bf5-464d-853b-214f5f9c1cfe)
 
 Best Fit line plot
 ![alt text](image.png)
